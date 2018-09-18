@@ -1,0 +1,87 @@
+[{
+		"container_uid": "N123456",
+		"container_op": 1,
+
+		"position_x": 123.1123,
+		"position_y": 123.1123,
+		"position_z": 123.1123,
+		"container_length": 1.1,
+		"container_width": 1.1,
+		"container_height": 1.1,
+
+		"container_type": 1,
+		"container_pose": 1,
+		"container_weight": 1.1,
+		"container_color": 54535646,
+
+		"container_type_str": "40HQ",
+		"container_checkin_time": "",
+		"container_location": "0102011",
+		"container_is_empty": "重",
+		"container_is_broken": "残",
+		"container_owner": "",
+		"container_seal_sn": "",
+
+		"container_import_or_export": 1,
+
+		"container_imp_sn": "",
+		"container_imp_in_or_out": "",
+		"container_imp_accept": "",
+		"container_imp_vessel_voyage": "",
+		"container_imp_cargo_name": "",
+
+		"container_exp_sn": "",
+		"container_exp_broken_log": "",
+		"container_exp_cargo_name": "",
+		"container_exp_vessel": "",
+		"container_exp_voyage": "",
+		"container_exp_destination": "",
+		"container_exp_reload_time": "",
+		"container_exp_final_weight": "",
+
+		"container_info": "info"
+	},
+	{
+		"container_uid": "N654321",
+		"container_op": 1,
+
+		"position_x": 123.1123,
+		"position_y": 123.1123,
+		"position_z": 123.1123,
+		"container_length": 1.1,
+		"container_width": 1.1,
+		"container_height": 1.1,
+
+		"container_type": 1,
+		"container_pose": 1,
+		"container_weight": 1.1,
+		"container_color": 54535646,
+
+		"container_type_str": "40HQ",
+		"container_checkin_time": "",
+		"container_location": "0102011",
+		"container_is_empty": "重",
+		"container_is_broken": "残",
+		"container_owner": "",
+		"container_seal_sn": "",
+
+		"container_import_or_export": 1,
+
+		"container_imp_sn": "",
+		"container_imp_in_or_out": "",
+		"container_imp_accept": "",
+		"container_imp_vessel_voyage": "",
+		"container_imp_cargo_name": "",
+
+		"container_exp_sn": "",
+		"container_exp_broken_log": "",
+		"container_exp_cargo_name": "",
+		"container_exp_vessel": "",
+		"container_exp_voyage": "",
+		"container_exp_destination": "",
+		"container_exp_reload_time": "",
+		"container_exp_final_weight": "",
+
+		"container_info": "info"
+	}
+]
